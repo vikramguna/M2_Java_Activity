@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.Scanner;
 
-public class code1 {
+public class Code1 {
 
     public static void main(String[] arg) {
         
